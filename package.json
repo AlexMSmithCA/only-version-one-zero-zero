@@ -1,0 +1,17 @@
+{
+  "name": "only-version-one-zero-zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMSmithCA/only-version-one-zero-zero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMSmithCA/only-version-one-zero-zero/issues"
+  },
+  "homepage": "https://github.com/AlexMSmithCA/only-version-one-zero-zero#readme"
+}
